@@ -5,15 +5,16 @@ const Contact = () => {
   const [name, setName] = React.useState("");
   const [email, setEmail] = React.useState("");
   const [message, setMessage] = React.useState("");
-
   const [empty, setEmpty] = React.useState(false);
 
+  /* Empty fields function*/
   const makeFieldsEmpty = () => {
     setName("");
     setEmail("");
     setMessage("");
   };
 
+  /* Empty Fields after 2 two seconds from empty is true */
   React.useEffect(() => {
     empty &&
       setTimeout(() => {
