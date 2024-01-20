@@ -1,36 +1,38 @@
 import news from "../../assets/images/works/News.jpg";
 import tasks from "../../assets/images/works/Tasks.png";
 import softy from "../../assets/images/works/Softy-Pinko.png";
+import facebook from "../../assets/images/works/facebook.jpg";
+import xo from "../../assets/images/works/xo.jpg";
 
 export const worksArray = [
     {
         src: news,
         text: 'NEWS',
         websiteLink: 'https://ferasmoh.github.io/News/',
-        youtubeLink: "https://www.youtube.com/watch?v=sSqUASb_B_Y&t=3s",
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#news",
     },
     {
-        src: '',
+        src: facebook,
         text: 'Facebook',
         websiteLink: 'https://ferasmoh.github.io/Facebook/',
-        youtubeLink: '',
+        descLink: 'https://ferasmoh.github.io/Portfolio-description/#facebook',
     },
     {
         src: tasks,
         text: 'TASKS',
         websiteLink: '',
-        youtubeLink: "https://www.youtube.com/watch?v=YelO1KgUzsY&t=40s",
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#tasks",
     },
     {
-        src: '',
+        src: xo,
         text: 'XO',
         websiteLink: 'https://ferasmoh.github.io/X-and-O/',
-        youtubeLink: "",
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#xo",
     },
     {
         src: softy,
         text: 'Softy-Pinko',
         websiteLink: 'https://ferasmoh.github.io/simpleBootstrap/',
-        youtubeLink: "https://www.youtube.com/watch?v=7GwYgwjHaTw",
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#softy",
     },
 ]

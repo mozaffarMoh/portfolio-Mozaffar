@@ -16,7 +16,7 @@ const Works = () => {
                 </div>
               </a>
                 <p>{work.text}</p>
-                <a href={work.youtubeLink}>Watch video</a>
+                <a href={work.descLink} target="_blank">Description</a>
             </div>
           );
         })}
