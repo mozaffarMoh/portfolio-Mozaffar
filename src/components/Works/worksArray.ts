@@ -23,14 +23,13 @@ export const worksArray = [
         src: tasks,
         text: 'TASKS',
         websiteLink: 'https://ferasmoh.github.io/Tasks',
-        descLink: "https://ferasmoh.github.io/Portfolio-description/#tasks",
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#alkarama",
     }, {
         src: alkarama,
         text: 'Alkaram-Club',
         websiteLink: 'https://ferasmoh.github.io/Alkarama',
-        descLink: "https://ferasmoh.github.io/Portfolio-description/#tasks",
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#alkarama",
     },
-
     {
         src: xo,
         text: 'XO',
