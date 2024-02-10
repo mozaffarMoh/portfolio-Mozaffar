@@ -2,7 +2,9 @@ import news from "../../assets/images/works/News.jpg";
 import tasks from "../../assets/images/works/Tasks.png";
 import softy from "../../assets/images/works/Softy-Pinko.png";
 import facebook from "../../assets/images/works/facebook.jpg";
+import alkarama from "../../assets/images/works/alkarama.jpg";
 import xo from "../../assets/images/works/xo.jpg";
+
 
 export const worksArray = [
     {
@@ -22,7 +24,13 @@ export const worksArray = [
         text: 'TASKS',
         websiteLink: 'https://ferasmoh.github.io/Tasks',
         descLink: "https://ferasmoh.github.io/Portfolio-description/#tasks",
+    }, {
+        src: alkarama,
+        text: 'Alkaram-Club',
+        websiteLink: 'https://ferasmoh.github.io/Alkarama',
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#tasks",
     },
+
     {
         src: xo,
         text: 'XO',
