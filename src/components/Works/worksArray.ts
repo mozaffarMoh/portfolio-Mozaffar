@@ -1,9 +1,10 @@
 import news from "../../assets/images/works/News.jpg";
 import tasks from "../../assets/images/works/Tasks.png";
-import softy from "../../assets/images/works/Softy-Pinko.png";
 import facebook from "../../assets/images/works/facebook.jpg";
 import alkarama from "../../assets/images/works/alkarama.jpg";
 import xo from "../../assets/images/works/xo.jpg";
+import animationWater from "../../assets/images/works/Water_Animation.jpg";
+import softy from "../../assets/images/works/Softy-Pinko.png";
 
 
 export const worksArray = [
@@ -35,6 +36,12 @@ export const worksArray = [
         text: 'XO',
         websiteLink: 'https://ferasmoh.github.io/X-and-O/',
         descLink: "https://ferasmoh.github.io/Portfolio-description/#xo",
+    },
+    {
+        src: animationWater,
+        text: 'Water_Animation',
+        websiteLink: 'https://ferasmoh.github.io/animationWater/',
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#animationWater",
     },
     {
         src: softy,
