@@ -5,6 +5,9 @@ import alkarama from "../../assets/images/works/alkarama.jpg";
 import xo from "../../assets/images/works/xo.jpg";
 import animationWater from "../../assets/images/works/Water_Animation.jpg";
 import softy from "../../assets/images/works/Softy-Pinko.png";
+import carsGame from "../../assets/images/works/carsGame.jpg";
+
+
 
 
 export const worksArray = [
@@ -42,6 +45,11 @@ export const worksArray = [
         text: 'Water_Animation',
         websiteLink: 'https://ferasmoh.github.io/animationWater/',
         descLink: "https://ferasmoh.github.io/Portfolio-description/#animationWater",
+    }, {
+        src: carsGame,
+        text: 'Cars_Game',
+        websiteLink: 'https://ferasmoh.github.io/cars-game/',
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#cars-game",
     },
     {
         src: softy,
