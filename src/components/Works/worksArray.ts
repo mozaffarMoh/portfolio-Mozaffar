@@ -6,6 +6,7 @@ import xo from "../../assets/images/works/xo.jpg";
 import animationWater from "../../assets/images/works/Water_Animation.jpg";
 import softy from "../../assets/images/works/Softy-Pinko.png";
 import carsGame from "../../assets/images/works/carsGame.jpg";
+import ResturantFood from '../../assets/images/works/resturant.jpg'
 
 
 
@@ -56,5 +57,11 @@ export const worksArray = [
         text: 'Softy-Pinko',
         websiteLink: 'https://ferasmoh.github.io/simpleBootstrap/',
         descLink: "https://ferasmoh.github.io/Portfolio-description/#softy",
+    },
+    {
+        src: ResturantFood,
+        text: 'Resturant_Food',
+        websiteLink: 'https://ferasmoh.github.io/Resturant/',
+        descLink: "https://ferasmoh.github.io/Portfolio-description/#Resturant",
     },
 ]
