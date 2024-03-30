@@ -20,7 +20,7 @@ export const footerArray = [
     },
     {
         src: github,
-        href: "https://github.com/ferasMoh",
+        href: "https://github.com/mozaffarMoh",
     },
     {
         src: instagram,
