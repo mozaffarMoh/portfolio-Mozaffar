@@ -14,7 +14,7 @@ const About = () => {
         <h4>Personal life</h4>
         <p>
           I was born on January 8, 1996. I live in Syria, in Homs Governorate.
-          My My hobbies are playing the violin and playing football.
+          My hobbies are playing the violin and playing football.
         </p>
       </div>
     </div>
