@@ -7,6 +7,7 @@ import animationWater from "../../assets/images/works/Water_Animation.jpg";
 import softy from "../../assets/images/works/Softy-Pinko.png";
 import carsGame from "../../assets/images/works/carsGame.jpg";
 import ResturantFood from '../../assets/images/works/resturant.jpg'
+import Calculator from '../../assets/images/works/calculator.avif'
 
 
 
@@ -63,5 +64,11 @@ export const worksArray = [
         text: 'Resturant_Food',
         websiteLink: 'https://mozaffarmoh.github.io/Resturant/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Resturant",
+    },
+    {
+        src: Calculator,
+        text: 'Calculator',
+        websiteLink: 'https://mozaffarmoh.github.io/Calculator/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Calculator",
     },
 ]
