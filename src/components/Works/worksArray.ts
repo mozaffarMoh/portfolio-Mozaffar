@@ -8,7 +8,7 @@ import softy from "../../assets/images/works/Softy-Pinko.png";
 import carsGame from "../../assets/images/works/carsGame.jpg";
 import ResturantFood from '../../assets/images/works/resturant.jpg'
 import Calculator from '../../assets/images/works/calculator.avif'
-
+import Prodcuts from '../../assets/images/works/Prodcuts.jpg'
 
 
 
@@ -30,6 +30,18 @@ export const worksArray = [
         text: 'TASKS',
         websiteLink: 'https://mozaffarmoh.github.io/Tasks',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#alkarama",
+    },
+    {
+        src: Prodcuts,
+        text: 'Prodcuts',
+        websiteLink: 'https://mozaffarmoh.github.io/Products/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Prodcuts",
+    },
+    {
+        src: ResturantFood,
+        text: 'Resturant_Food',
+        websiteLink: 'https://mozaffarmoh.github.io/Resturant/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Resturant",
     }, {
         src: alkarama,
         text: 'Alkaram-Club',
@@ -60,15 +72,12 @@ export const worksArray = [
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#softy",
     },
     {
-        src: ResturantFood,
-        text: 'Resturant_Food',
-        websiteLink: 'https://mozaffarmoh.github.io/Resturant/',
-        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Resturant",
-    },
-    {
         src: Calculator,
         text: 'Calculator',
         websiteLink: 'https://mozaffarmoh.github.io/Calculator/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Calculator",
     },
+
+
+
 ]
