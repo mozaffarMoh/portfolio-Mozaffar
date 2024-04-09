@@ -10,6 +10,12 @@ import material from "../../assets/images/skills/material-ui.svg";
 import tailwind from "../../assets/images/skills/tailwind.svg";
 import bootstrap from "../../assets/images/skills/bootstrap.svg";
 import github from "../../assets/images/skills/github.svg";
+import postman from "../../assets/images/skills/postman.svg";
+import figma from "../../assets/images/skills/figma.svg";
+import vscode from "../../assets/images/skills/vscode.svg";
+import antDesign from "../../assets/images/skills/ant-design.svg";
+
+
 
 
 export const skillsArray = [
@@ -46,8 +52,23 @@ export const skillsArray = [
     }, {
         src: bootstrap,
         text: "Bootstrap",
+    },
+    {
+        src: antDesign,
+        text: "Ant-Design",
     }, {
         src: github,
         text: "Github",
+    }, {
+        src: postman,
+        text: "Postman",
+    }, {
+        src: figma,
+        text: "Figma",
+    }, {
+        src: vscode,
+        text: "VSCode",
     },
+
+
 ];

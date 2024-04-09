@@ -8,7 +8,7 @@ import softy from "../../assets/images/works/Softy-Pinko.png";
 import carsGame from "../../assets/images/works/carsGame.jpg";
 import ResturantFood from '../../assets/images/works/resturant.jpg'
 import Calculator from '../../assets/images/works/calculator.avif'
-import Prodcuts from '../../assets/images/works/Prodcuts.jpg'
+import Products from '../../assets/images/works/Products.jpg'
 
 
 
@@ -32,10 +32,10 @@ export const worksArray = [
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#alkarama",
     },
     {
-        src: Prodcuts,
-        text: 'Prodcuts',
+        src: Products,
+        text: 'Products',
         websiteLink: 'https://mozaffarmoh.github.io/Products/',
-        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Prodcuts",
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Products",
     },
     {
         src: ResturantFood,
