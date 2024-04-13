@@ -35,7 +35,7 @@ const Contact = () => {
         </div>
         <form
           className="contact-form"
-          action="https://formspree.io/f/xleqekew"
+          action="https://formspree.io/f/xeqypnvo"
           method="POST"
           target="_blank"
           onSubmit={() => setEmpty(true)}
