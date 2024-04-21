@@ -9,6 +9,7 @@ import carsGame from "../../assets/images/works/carsGame.jpg";
 import ResturantFood from '../../assets/images/works/resturant.jpg'
 import Calculator from '../../assets/images/works/calculator.avif'
 import Products from '../../assets/images/works/Products.jpg'
+import Downloader from '../../assets/images/works/downloader.webp';
 
 
 
@@ -29,7 +30,13 @@ export const worksArray = [
         src: tasks,
         text: 'TASKS',
         websiteLink: 'https://mozaffarmoh.github.io/Tasks',
-        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#alkarama",
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#tasks",
+    },
+    {
+        src: Downloader,
+        text: 'Downloader',
+        websiteLink: 'https://mozaffarmoh.github.io/Downloader',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Downloader",
     },
     {
         src: Products,
