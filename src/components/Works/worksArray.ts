@@ -10,6 +10,9 @@ import ResturantFood from '../../assets/images/works/resturant.jpg'
 import Calculator from '../../assets/images/works/calculator.avif'
 import Products from '../../assets/images/works/Products.jpg'
 import Downloader from '../../assets/images/works/downloader.webp';
+import chatApp from '../../assets/images/works/chatApp.png';
+
+
 
 
 
@@ -19,6 +22,12 @@ export const worksArray = [
         text: 'NEWS',
         websiteLink: 'https://mozaffarmoh.github.io/News/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#news",
+    },
+    {
+        src: chatApp,
+        text: 'Chat App',
+        websiteLink: 'https://mozaffarmoh.github.io/ChatApp/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#ChatApp",
     },
     {
         src: facebook,
