@@ -18,12 +18,6 @@ import chatApp from '../../assets/images/works/chatApp.png';
 
 export const worksArray = [
     {
-        src: news,
-        text: 'NEWS',
-        websiteLink: 'https://mozaffarmoh.github.io/News/',
-        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#news",
-    },
-    {
         src: chatApp,
         text: 'Chat App',
         websiteLink: 'https://mozaffarmoh.github.io/ChatApp/',
@@ -58,6 +52,12 @@ export const worksArray = [
         text: 'Resturant_Food',
         websiteLink: 'https://mozaffarmoh.github.io/Resturant/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Resturant",
+    },
+    {
+        src: news,
+        text: 'NEWS',
+        websiteLink: 'https://mozaffarmoh.github.io/News/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#news",
     }, {
         src: alkarama,
         text: 'Alkaram-Club',
