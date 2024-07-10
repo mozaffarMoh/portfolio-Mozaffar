@@ -11,6 +11,8 @@ import Calculator from '../../assets/images/works/calculator.avif'
 import Products from '../../assets/images/works/Products.jpg'
 import Downloader from '../../assets/images/works/downloader.webp';
 import chatApp from '../../assets/images/works/chatApp.png';
+import Chess from '../../assets/images/works/chess.jpg';
+
 
 
 
@@ -58,6 +60,12 @@ export const worksArray = [
         text: 'NEWS',
         websiteLink: 'https://mozaffarmoh.github.io/News/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#news",
+    },
+    {
+        src: Chess,
+        text: 'Chess',
+        websiteLink: 'https://mozaffarmoh.github.io/chess/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#chess",
     }, {
         src: alkarama,
         text: 'Alkaram-Club',
