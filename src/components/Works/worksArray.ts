@@ -109,6 +109,4 @@ export const worksArray = [
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Calculator",
     },
 
-
-
 ]
