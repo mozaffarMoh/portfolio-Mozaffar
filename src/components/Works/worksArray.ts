@@ -12,6 +12,7 @@ import Products from '../../assets/images/works/Products.jpg'
 import Downloader from '../../assets/images/works/downloader.webp';
 import chatApp from '../../assets/images/works/chatApp.png';
 import Chess from '../../assets/images/works/chess.jpg';
+import ourwebsite from '../../assets/images/works/ourwebsite.png';
 
 
 
@@ -94,6 +95,12 @@ export const worksArray = [
         text: 'Softy-Pinko',
         websiteLink: 'https://mozaffarmoh.github.io/simpleBootstrap/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#softy",
+    },
+    {
+        src: ourwebsite,
+        text: 'Our Website',
+        websiteLink: 'https://mozaffarmoh.github.io/OurWebsite/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#ourwebsite",
     },
     {
         src: Calculator,
