@@ -12,7 +12,7 @@ import Products from '../../assets/images/works/Products.jpg'
 import Downloader from '../../assets/images/works/downloader.webp';
 import chatApp from '../../assets/images/works/chatApp.png';
 import Chess from '../../assets/images/works/chess.jpg';
-import ourwebsite from '../../assets/images/works/ourwebsite.png';
+import ourwebsite from '../../assets/images/works/ourwebsite.jpg';
 
 
 
