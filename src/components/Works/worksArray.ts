@@ -1,5 +1,7 @@
 import news from "../../assets/images/works/News.jpg";
 import tasks from "../../assets/images/works/Tasks.png";
+import ThePlatform from "../../assets/images/works/thePlatform.svg";
+import Hostin from "../../assets/images/works/hostin.svg";
 import facebook from "../../assets/images/works/facebook.jpg";
 import alkarama from "../../assets/images/works/alkarama.jpg";
 import xo from "../../assets/images/works/xo.jpg";
@@ -27,6 +29,24 @@ export const worksArray = [
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#ChatApp",
     },
     {
+        src: ResturantFood,
+        text: 'Resturant',
+        websiteLink: 'https://resadv.netlify.app/ar/',
+        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Resturant",
+    },
+    {
+        src: ThePlatform,
+        text: 'ThePlatform',
+        websiteLink: 'https://tech-hub-website-git-mozaffar-khaled-abulabans-projects.vercel.app/',
+        descLink: 'https://mozaffarmoh.github.io/Portfolio-description/#theplatform',
+    },
+    {
+        src: Hostin,
+        text: 'Hostin',
+        websiteLink: 'https://hostin-landing-page-git-development-khaled-abulabans-projects.vercel.app',
+        descLink: 'https://mozaffarmoh.github.io/Portfolio-description/#hostin',
+    },
+    {
         src: facebook,
         text: 'Facebook',
         websiteLink: 'https://mozaffarmoh.github.io/Facebook/',
@@ -49,12 +69,6 @@ export const worksArray = [
         text: 'Products',
         websiteLink: 'https://mozaffarmoh.github.io/Products/',
         descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Products",
-    },
-    {
-        src: ResturantFood,
-        text: 'Resturant_Food',
-        websiteLink: 'https://mozaffarmoh.github.io/Resturant/',
-        descLink: "https://mozaffarmoh.github.io/Portfolio-description/#Resturant",
     },
     {
         src: news,

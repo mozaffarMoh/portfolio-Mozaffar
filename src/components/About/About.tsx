@@ -7,9 +7,9 @@ const About = () => {
       <div className="about-content">
         <h4>Who is Mozaffar ?</h4>
         <p>
-          My name is Mozaffar Mohammad, and I have one year of experience
-          working With the React framework, I do a lot of real projects; you can
-          see them below. in works section.
+          My name is Mozaffar Mohammad, and I have Three years of experience
+          working With the ReactJS and NextJS frameworks, I have worked on many
+          real-world projects, which you can see below in the Works section.
         </p>
         <h4>Personal life</h4>
         <p>

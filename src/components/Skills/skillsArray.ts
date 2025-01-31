@@ -4,6 +4,7 @@ import sass from "../../assets/images/skills/sass.svg";
 import js from "../../assets/images/skills/JS.svg";
 import typescript from "../../assets/images/skills/typescript.svg";
 import reactImg from "../../assets/images/skills/react.svg";
+import reactNativeImg from "../../assets/images/skills/react.svg";
 import redux from "../../assets/images/skills/redux.svg";
 import nextJs from "../../assets/images/skills/nextJs.svg";
 import material from "../../assets/images/skills/material-ui.svg";
@@ -37,7 +38,12 @@ export const skillsArray = [
     }, {
         src: reactImg,
         text: "React",
-    }, {
+    },
+    {
+        src: reactNativeImg,
+        text: "React-Native",
+    },
+    {
         src: redux,
         text: "Redux",
     }, {
