@@ -36,7 +36,7 @@ export const worksArray = [
     {
         src: ThePlatform,
         text: 'ThePlatform',
-        websiteLink: 'https://tech-hub-website-git-mozaffar-khaled-abulabans-projects.vercel.app/',
+        websiteLink: 'https://www.youtube.com/watch?v=d-0YsTy4Yiw',
         descLink: 'https://mozaffarmoh.github.io/Portfolio-description/#theplatform',
     },
     {
